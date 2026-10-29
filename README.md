@@ -138,4 +138,4 @@ A collection of projects covering C++98 concepts:
 ## 📫 Contact
 
 - [GitHub](https://github.com/Yuliano96)
-- [LinkedIn](https://www.linkedin.com/in/yuliano-pacileo-682b90440/)
+- [LinkedIn](https://www.linkedin.com/in/yuliano-pacileo/)
