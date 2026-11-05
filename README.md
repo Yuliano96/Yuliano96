@@ -102,6 +102,9 @@ Main concepts:
 - Unix signals.
 - File descriptor management.
 
+**My main contributions:** command parsing, tokenization, command-tree
+construction, and contributions to command-tree execution.
+
 🔗 [View Repository](https://github.com/Yuliano96/minishell)
 
 ---
@@ -132,6 +135,11 @@ A collection of projects covering C++98 concepts:
 - Exception handling.
 - Templates.
 - Standard Template Library (STL).
+
+CPP00–CPP09 are organized in one repository, with a short guide to the
+exercises in each module.
+
+🔗 [View Repository](https://github.com/Yuliano96/cpp-modules)
 
 ---
 
